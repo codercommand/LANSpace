@@ -1,2 +1,2 @@
 # LANSpace
- No-Host, LAN space fighter game.
+ No-Host, local area network spaceship fighter game.
